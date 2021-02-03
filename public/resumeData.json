@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "George Owoicho",
+    "occupation": "Frontend ReactJS Developer",
+    "description": "I build robust, interactive and fun react applications that brings out great ideas to life",
+    "image": "george.jpg",
+    "bio": "Hi there! I am George!, I'm a self-taught Frontend Web Developer with 1year of practical expirience, building applications professionally, I also have a Bachelor's Degree, in Computer Science. I'm a die-hard fan of Afro Pop/RnB & Hiphop music, I love to listen to great music when I'm coding, I also love to dance , as it frees my mind and helps to keep calm, I'm building up my developer skills everyday one step at a time and hopeful to get a job as a developer and also to start up my own freelancing and consulting business soon. I'm very open and available for internships/mentorship opportunities, and I do believe in the power of knowledge sharing, I want to start coaching beginners in web development in my town.  ",
+    "contactmessage": "Get in touch with me to know more about what i do!",
+    "email": "owoichogeorge4400@gmail.com",
+    "phone": "+234 8068794369",
+    "address": {
+      "street": "BUK New Site",
+      "city": "Kano",
+      "state": "Kano",
+      "zip": "700241"
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1_fc4xSZnDODH6GWSuyll1ZVqWaNFxcFv/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/georgeadahowoicho",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/george-owoicho-adah-749a4a13b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/georgeowia/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/devGeorgeOwi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Bayero University Kano - Nigeria",
+        "degree": "Bachelor's Degree, Computer Science/Economics",
+        "graduated": "September 2019",
+        "description": "Graduated with Second Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Hooli Consults",
+        "title": "Web Development Intern",
+        "years": "April 2019 - February 2020",
+        "description": "Designing Interactive modern web app interface for various client's/business purposes"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "45%",
+        "image": "./images/reactjs.png"
+      },
+      {
+        "name": "Python",
+        "level": "35%",
+        "image": "./images/python.png"
+      },
+      {
+        "name": "Git",
+        "level": "60%",
+        "image": "./images/git.png"
+      },
+      {
+        "name": "JavaScript",
+        "level": "55%",
+        "image": "./images/js.png"
+      },
+      {
+        "name": "Web Development",
+        "level": "65%",
+        "image": "./images/webdev.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone with ReactJs",
+        "category": "Netflix built with ReactJs",
+        "image": "netflix-clone.jpg",
+        "url": "https://netflix-clone-ef880.web.app/"
+      },
+      {
+        "title": "Resume-Portfolio  (HTML CSS, SCSS JS)",
+        "category": "Portfolio website mobile responsive",
+        "image": "resume-portfolio.jpg",
+        "url": "https://george-owoicho-portfolio.netlify.app/"
+      },
+      {
+        "title": "Easy Bank Landing Page (HTML CSS JS)",
+        "category": "",
+        "image": "easy-bank-landing-page.jpg",
+        "url": "https://easybank-nigeria.netlify.app/"
+      },
+      {
+        "title": "Fylo Landing Page (HTML CSS JS)",
+        "category": "",
+        "image": "fulo-landing-page.jpg",
+        "url": "https://fylo-landing-page-app.netlify.app/"
+      },
+      {
+        "title": "Huddle Landing Page (HTML CSS JS)",
+        "category": "",
+        "image": "huddle-landing-page.jpg",
+        "url": "https://huddle-landingpage-nigeria.netlify.app/"
+      },
+      {
+        "title": "Dog Chat App Landing Page (HTML CSS JS)",
+        "category": "",
+        "image": "dog-chat-app.jpg",
+        "url": "https://chat-app-dogwalker.netlify.app/"
+      },
+      {
+        "title": "JS Counter App Page (HTML CSS JS)",
+        "category": "",
+        "image": "js-counter-app.jpg",
+        "url": "https://js-counter-app.netlify.app/"
+      },
+      {
+        "title": "JS Slider App Page (HTML CSS JS)",
+        "category": "",
+        "image": "slider.jpg",
+        "url": "https://js-user-review-page.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sir George! is a good teacher, he breaks down difficult concepts into smaller digestible chunks and snippet of knowledge... I highly recommend....",
+        "user": "Kelechi Blessing"
+      },
+      {
+        "text": "George! is a great student and mentee, I am proud of him, he always pushes himself to know more and goes all the way to reach his goals...!",
+        "user": "Opeyemi Bamidele"
+      }
+    ]
+  }
+}
