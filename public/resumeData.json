@@ -4,7 +4,8 @@
     "occupation": "Frontend ReactJS Developer",
     "description": "I build robust, interactive and fun react applications that brings out great ideas to life",
     "image": "george.jpg",
-    "bio": "Hi there! I am George!, I'm a self-taught Frontend Web Developer with 6+ months of practical experience, building applications professionally, I also have a Bachelor's Degree, in Computer Science. I'm a die-hard fan of Afro Pop/RnB & Hiphop music, I love to listen to great music when I'm coding, I also love to dance , as it frees my mind and helps to keep calm, I'm building up my developer skills everyday one step at a time and hopeful to get a job as a developer and also to start up my own freelancing and consulting business soon. I'm very open and available for internships/mentorship opportunities, and I do believe in the power of knowledge sharing, I want to start coaching beginners in web development in my town.  ",
+    "bio": "Hi there! I am George, a self-taught Frontend Web Developer with 8+ months of practical experience, building applications Professionally, I also have a Bachelor's Degree, in Computer Science. I understand the basic fundamentals of HTML, CSS, and javaScript, with a little of React. I love to write code the makes life easy for clients.
+  ",
     "contactmessage": "Get in touch with me to know more about what i do!",
     "email": "owoichogeorge4400@gmail.com",
     "phone": "+234 8068794369",
@@ -122,18 +123,6 @@
         "category": "",
         "image": "dog-chat-app.jpg",
         "url": "https://chat-app-dogwalker.netlify.app/"
-      },
-      {
-        "title": "JS Counter App Page (HTML CSS JS)",
-        "category": "",
-        "image": "js-counter-app.jpg",
-        "url": "https://js-counter-app.netlify.app/"
-      },
-      {
-        "title": "JS Slider App Page (HTML CSS JS)",
-        "category": "",
-        "image": "slider.jpg",
-        "url": "https://js-user-review-page.netlify.app/"
       }
     ]
   },
